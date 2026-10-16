@@ -43,15 +43,15 @@ Do zadań skorzystaj z załączonej listy Chatbotów (Chatterbotów) lub znajdź
 botem udającym człowieka (przygotowywanym na test Turinga) a botem
 „asystentem, służącym”.
 2. Sprawdź dwa boty z obu z tych rodzajów na występowanie zachowań:
-a) opowiadanie żartów,
-b) przytaczanie cytatów z twoich wypowiedzi, lub znanych osób,
-c) nawiązywanie wypowiedzi do słów kluczowych,
-d) zadawanie dużej liczby pytań,
-e) powracanie do początku wypowiedzi, sekwencyjne powtarzanie,
-f) zadawanie pytań powstających z twoich wypowiedzi,
-g) odpowiadanie wymijająco, ogólnikowo,
-h) częsta zmiana tematu rozmowy,
-i) problemy z utrzymaniem wątków.
+   + opowiadanie żartów,
++ przytaczanie cytatów z twoich wypowiedzi, lub znanych osób,
++ nawiązywanie wypowiedzi do słów kluczowych,
++ zadawanie dużej liczby pytań,
++ powracanie do początku wypowiedzi, sekwencyjne powtarzanie,
++ zadawanie pytań powstających z twoich wypowiedzi,
++ odpowiadanie wymijająco, ogólnikowo,
++ częsta zmiana tematu rozmowy,
++ problemy z utrzymaniem wątków.
 3. Sporządź raport ze spostrzeżeń.
 4. Na podstawie powyższych obserwacji, w grupie dwóch osób spróbujcie prze-
 widzieć zachowania dwóch rozmawiających ze sobą chatbotów (przepisując ich
@@ -61,14 +61,13 @@ Lista startowa chatbotów:
 + [cleverbot.com](https://cleverbot.com)
 + [www.chatbot4u.com](https://www.chatbot4u.com)
 + [https://www.chatbot.pl](https://www.chatbot.pl)
-+ douweosinga.com
-+ apps.facebook.com/luxoft_avatar
-+ chatterboty.pl
-+ ikea.com.pl (zapytaj Anię)
-+ www.chatbots.org
-+ www.snikers.pl
-+ www.personalityforge.com (hall of fame)
-+ www.ecreation.pl
-+ wellbot.tk
-+ www.inguaris.pl
-+ tremo.algit.pl
++ [douweosinga.com](https://douweosinga.com)
++ [apps.facebook.com/luxoft_avatar](https://apps.facebook.com/luxoft_avatar)
++ [chatterboty.pl](https://chatterboty.pl)
++ [ikea.com.pl](https://ikea.com.pl) (zapytaj Anię)
++ [www.snikers.pl](https://www.snikers.pl)
++ [www.personalityforge.com](https://www.personalityforge.com) (hall of fame)
++ [www.ecreation.pl](https://www.ecreation.pl)
++ [wellbot.tk](https://wellbot.tk)
++ [www.inguaris.pl](https://www.inguaris.pl)
++ [tremo.algit.pl](https://tremo.algit.pl)
