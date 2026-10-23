@@ -10,3 +10,4 @@
 + symboliczne całkowanie,
 + kierowanie samochodem.
 ## Odppowiedz:
+ Wszystkie zadania, bo to są algorytmy: przetwarzanie języka naturalnego, rozwiązywanie problemów matematycznych, jak i planowanie oraz sterowanie, które mogą być rozwiązywane przez systemy SI.
