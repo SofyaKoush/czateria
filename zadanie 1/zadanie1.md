@@ -15,4 +15,4 @@
 + kierowanie samochodem
 
   ## Odpowiedz:
-  Wszystko wymaga inteligencji, bo dziecko tego nie potrafi zrobic.
+  Wszystkie zadania wymagają inteligencji, rozumienia niejednoznaczności oraz kreatywności.
